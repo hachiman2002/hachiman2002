@@ -13,8 +13,12 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/hachiman2002">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC9-5ZpKF8vB7EoHFfV-w_8w">
+	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC9-5ZpKF8vB7EoHFfV-w_8w">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://gracianymundoinformatico.blogspot.com/">
+				<img src="https://img.icons8.com/doodle/1x/blogger--v2.png" ></a>
+	 <!--<a style="margin-left: 10px;" target="_blank" href="https://gracianymundoinformatico.blogspot.com/">
+				<img src="https://img.icons8.com/doodle/1x/portfolio--v2.png" ></a>-->
    </div>
 </p>
 
