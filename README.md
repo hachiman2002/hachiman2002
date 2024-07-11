@@ -29,9 +29,8 @@
 
 <div align="center">
   <h1 align="center">Stack</h1>
-</div>
 
-### 🛠 &nbsp;Lenguajes
+ ### 🛠 &nbsp;Lenguajes
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css" />
@@ -41,7 +40,7 @@
 ### 🛠 &nbsp;Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,express,nextjs,nodejs,react,redux,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=django,flask,express,nextjs,nodejs,react,tailwind,bootstrap" />
   </a>
 </p>
 
@@ -58,25 +57,7 @@
     <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,pug,figma,github,linux,vscode"/>
   </a>
 </p>
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+</div>
 
 
-
-### 🤝🏻 &nbsp;Contactme
-<!--
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/graciany-baeza-69b3b9237/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gr4ciany@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>-->
 
