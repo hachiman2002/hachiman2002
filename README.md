@@ -37,7 +37,7 @@
  ### 🛠 &nbsp;Lenguajes
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@
 ### 🛠 &nbsp;Otros
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,pug,figma,github,linux,vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,pug,figma,github,linux,vscode,html,css"/>
   </a>
 </p>
 </div>
